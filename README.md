@@ -17,3 +17,9 @@ source venv/bin/activate
 ```
 pip install [pkg_name]
 ```
+
+# 启动Chrome
+
+```
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222 --user-data-dir="/Users/tangji/Download"
+```
